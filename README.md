@@ -96,7 +96,3 @@ python Data_Ingestion.py
 4. Search for approaches that may be faster than the one implemented for CSV Ingestion.
 
 
-
-### Thanks
-I want to thank the interview team from Postman for the given assignment. It has really pushed me to learn a lot of new things.
-Thank You.
